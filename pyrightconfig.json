@@ -1,0 +1,15 @@
+{
+  "include": ["src"],
+  "extraPaths": ["src"],
+  "reportImplicitRelativeImport": false,
+  "reportMissingImports": false,
+  "reportMissingTypeArgument": false,
+  "reportUnknownVariableType": false,
+  "reportUnknownMemberType": false,
+  "reportUnknownParameterType": false,
+  "reportUnknownArgumentType": false,
+  "reportUnusedCallResult": false,
+  "reportCallInDefaultInitializer": false,
+  "pythonVersion": "3.12",
+  "typeCheckingMode": "basic"
+}
